@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://books.toscrape.com/"
 HEADERS = {"User-Agent": "zepto-capstone-student-scraper/1.0"}
 
-# 4 categories -> about 85 books, comfortably above the 60 required
+# 4 categories 
 TARGET_CATEGORIES = ["Travel", "Mystery", "Historical Fiction", "Science Fiction"]
 
 
